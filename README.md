@@ -21,5 +21,6 @@
 [块级作用域绑定：let、const](https://github.com/K-Kevin/blog/issues/1)
 
 ##### JavaScript
+[IIFE-立即调用函数表达式](https://github.com/K-Kevin/blog/issues/2)
 
 ##### React
