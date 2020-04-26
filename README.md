@@ -1,19 +1,39 @@
-`blog`
+# Blog List
 
-```
-记录前端学习之路
 
-目前正在从 iOS 开发转向 Web 开发，也并不是 iOS 开发不好，只是公司 iOS 业务缩减，个人也觉得多掌握一点技能也没啥不好，
-而且可以拓宽自己的技术栈，算是对自己的一个挑战。
-  
-可是真正学起来发现前端的东西真的很多，学习起来很多时候摸不着头脑，有时候遇到一些问题，别人侃侃而谈，自己也不免苦恼，其实
-转念一想，别人积攒了几年的知识，你又岂能一下子全懂，所以还是要静下心来，不要试图把自己半年或者一年后能达到的程序强加在目前
-的自己，一步一个脚印。
-  
-前端部分的 blog 涵盖很多，我在学习的有 JavaScript 基础、es6、React 应用、编程思想（jQuery、underscope）以及一些
-边缘涉及到的，可能会很杂~~~
-```
+#### JavaScript
 
-issues
+[**防抖&节流**](https://github.com/K-Kevin/blog/issues/19)
 
-[**LeetCode**](https://github.com/K-Kevin/LeetCode)
+[**input 输入框数字校验**](https://github.com/K-Kevin/blog/issues/18)
+
+[**块级作用域绑定**](https://github.com/K-Kevin/blog/issues/1) `ES6`
+
+[**IIFE-立即调用函数表达式**](https://github.com/K-Kevin/blog/issues/2)
+
+[**数据类型**](https://github.com/K-Kevin/blog/issues/3)
+
+[**引用类型**](https://github.com/K-Kevin/blog/issues/4)
+
+[**面向对象**](https://github.com/K-Kevin/blog/issues/5)
+
+[**类型转换**](https://github.com/K-Kevin/blog/issues/7)
+
+[**Promise 里的代码为什么比 setTimeout 先执行？**](https://github.com/K-Kevin/blog/issues/8)
+
+[**函数、this**](https://github.com/K-Kevin/blog/issues/9)
+
+[**Completion 类型**](https://github.com/K-Kevin/blog/issues/15)
+
+[**分号**](https://github.com/K-Kevin/blog/issues/16)
+
+[**脚本和模块**](https://github.com/K-Kevin/blog/issues/17)
+
+#### 其他
+
+[**Mac 环境配置 zsh git nvm node**](https://github.com/K-Kevin/blog/issues/10)
+
+[**关于 h5 定位方案e**](https://github.com/K-Kevin/blog/issues/12)
+
+[**PDF、Office 等文档预览**](https://github.com/K-Kevin/blog/issues/13)
+
