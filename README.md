@@ -29,6 +29,9 @@
 
 [**脚本和模块**](https://github.com/K-Kevin/blog/issues/17)
 
+[**事件机制**](https://github.com/K-Kevin/blog/issues/20)
+
+
 #### 其他
 
 [**Mac 环境配置 zsh git nvm node**](https://github.com/K-Kevin/blog/issues/10)
